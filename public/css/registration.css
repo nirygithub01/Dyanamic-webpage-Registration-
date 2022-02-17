@@ -1,0 +1,31 @@
+.container-fluid{
+    border: 3px solid blue;
+}
+.container{
+    /**
+    border: 2px solid blue;
+    */
+    margin: auto;
+}
+.col{
+    /**border: 1px solid red; */
+    margin: auto;
+}
+.row{
+   /**
+    border: 2px solid green;
+    */
+    margin: auto;
+}
+input[type=text] {
+    border:2px solid green;
+}
+input[type=email] {
+    border:2px solid green;
+}
+input[type=password] {
+    border:2px solid green;
+}
+input[type=radio] {
+    border:2px solid green;
+}
